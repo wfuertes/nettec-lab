@@ -1,1 +1,6 @@
 target/*
+.settings/
+.classpath
+.project
+.idea/
+nettec-lab.iml
